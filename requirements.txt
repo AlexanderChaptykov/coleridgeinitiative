@@ -1,0 +1,9 @@
+pytorch_lightning
+kaggle
+wandb
+transformers
+pydantic
+python-Levenshtein
+datasets
+clean-text
+lightning-bolts

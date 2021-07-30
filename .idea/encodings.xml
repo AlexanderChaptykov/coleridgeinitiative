@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/.conda/envs/cancellation_2020nov_binary_classifier2/lib/python3.6/site-packages/transformers/trainer.py" charset="GBK" />
+    <file url="file://$USER_HOME$/Downloads/__.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/tests/__init__.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/__init__.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/cli_parser/__init__.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/dtypes/__init__.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/word_river/model/__init__.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/model/architecture/gan_model.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/model/architecture/layers.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/model/dataset/utils.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/model/pl/111.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/model/pl/parseme" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/model/pl/siam.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/system/__init__.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/tmp/11.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/tmp/12.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/word_river/tmp/__init__.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/tmp/exper.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/word_river/tmp/ner.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/tmp/note.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/tmp/old model.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/tmp/вв.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/word_river/train_data/compete_scritps.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/word_river/train_data/prepare_cval.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/word_river/train_data/run_data_create.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/word_river/train_data/utils.py" charset="UTF-8" />
+  </component>
+</project>
